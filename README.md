@@ -28,3 +28,9 @@
 </div>
 
 ![Snake animation](https://github.com/MarioMatheusPombal/MarioMatheusPombal/blob/output/github-contribution-grid-snake.svg)
+  
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YanSardinha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MarioMatheusPombal&icon=9&color=12)](https://visitcount.itsvg.in)
