@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **PHP Laravel**
 
-- 👨‍💻 All of my projects are available at [my profile](my profile)
-
 - 💬 Ask me about **Python and Java**
 
 - 📫 How to reach me **mariomatheuspombal@gmail.com**
@@ -19,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mario matheus pombal rebello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario matheus pombal rebello" height="30" width="40" /></a>
-<a href="https://instagram.com/@marioomatheus19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@marioomatheus19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mariomatheuspombal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariomatheuspombal" height="30" width="40" /></a>
+<a href="https://instagram.com/marioomatheus19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marioomatheus19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
