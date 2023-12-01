@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariomatheuspombal" alt="mariomatheuspombal" /></a> </p>
 
-- 🔭 I’m currently working on **CRP Tecnologia**
+- 🔭 I’m currently working on **ULBRA PALMAS**
 
 - 🌱 I’m currently learning **PHP Laravel**
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **Python ,Java and JS**
 
 - 📫 How to reach me **mariomatheuspombal@gmail.com**
 
