@@ -1,6 +1,5 @@
 <!-- HEADER -->
 <div>
-  <img align="left" src="img/avatar.png" width="180" alt="Avatar">
   <div>
     <h3>Hey! I'm Mario</h3>
     <p>Passionate about software engineering, educational game design and <b>NODE.JS</b>.</p>
