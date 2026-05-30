@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <!-- Website/Blog Badge -->
-      <a href="https://seu-site-ou-blog.dev">
+      <a href="https://www.somosnexo.app/pt">
         <img src="https://img.shields.io/badge/Blog-10B981?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge"/>
       </a>
     </div>
